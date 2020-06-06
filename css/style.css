@@ -220,8 +220,6 @@ p {
   }
 }
 
-.images {
-            position: absolute;
-            margin-top: 850px;
-            margin-left: 50px;
+img{
+margin: 5px /*tes images auront une marge de 5px partout autour d'elle*/
 }
