@@ -220,4 +220,8 @@ p {
   }
 }
 
-.imageCentre {text-align:center}
+.images {
+            position: absolute;
+            margin-top: 850px;
+            margin-left: 50px;
+}
